@@ -60,9 +60,21 @@
 
 ```
 
-
-
 ### Exercise 6
+
+**Name:** Dotty Cat  
+**Points:** 50  
+**Challenge:** This file is a bit dotty.  Download the file here: https://github.com/mickitcarlow/ctf4cfy/blob/main/flag.txt
+
+****Solution:****
+
+```
+ 
+ 
+ 
+```
+
+### Exercise 7
 
 **Name:** Wave a Flag  
 **Points:** 150  
@@ -71,14 +83,10 @@
 ****Solution:****
 
 ```
- 
- 
- 
+
 ```
 
-
-
-### Exercise 7
+### Exercise 8
 
 **Name:** So Meta  
 **Points:** 150  
@@ -87,17 +95,56 @@
 ****Solution:****
 
 ```
+
+```
+
+### Exercise 9
+
+**Name:** Insp3ct0r  
+**Points:** 150  
+**Challenge:** Someone tipped us off that the following code may need inspection:  https://jupiter.challenges.picoctf.org/problem/9670/
+
+**Solution:**
+
+```
  
  
  
 ```
 
+### Exercise 10
+
+**Name:** First grep  
+**Points:** 100  
+**Challenge:** Can you find the flag in this file. This would be really tedious to look through manually, something tells me there is a better way. https://github.com/mickitcarlow/ctf4cfy/blob/main/file
+
+**Solution:**
+
+```
+ 
+
+```
+
+### Exercise 11
+
+**Name:** Information  
+**Points:** 100  
+**Challenge:** Files can always be changed in a secret way, can you find the flag? 
 
 
-### Exercise 8
 
-**Name:** Insp3ct0r  
-**Points:** 150  
-**Challenge:** Kishor Balan tipped us off that the following code may need inspection:  https://jupiter.challenges.picoctf.org/problem/9670/
+**Solution:**
+
+```
+
+ 
+
+```
+
+### Exercise 12
+
+**Name:** strings-it  
+**Points:** 100  
+**Challenge:** Can you find the flag in this file, without running it. 
 
 **Solution:**
